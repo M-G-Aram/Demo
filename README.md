@@ -9,3 +9,5 @@ commiting them to the main branch.
 
 This is to test Git's conflict Resolution capability by seeing how we can avoid bad updates on a branch to get merged
 into the master branch.
+
+Saving temporary changes with Git stashing.
