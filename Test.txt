@@ -1,3 +1,3 @@
 ## This is just to test how we can create local branches and
 then push them on the remote server and possibly compare them with 
-branches on Githhub if there is any out there.
+branches on GitHub if there is any out there.
