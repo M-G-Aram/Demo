@@ -12,4 +12,5 @@ into the master branch.
 
 Saving temporary changes with Git stashing.
 
+These changes were made locally to test branching capability and synchronization with GitHub.
 Testing branch capability of GitHub.
