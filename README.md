@@ -11,3 +11,5 @@ This is to test Git's conflict Resolution capability by seeing how we can avoid 
 into the master branch.
 
 Saving temporary changes with Git stashing.
+
+Testing branch capability of GitHub.
